@@ -14,6 +14,7 @@ import java.util.stream.Collectors;
 
 /**
  * @author valkarinc
+ * This application is going to be a top tier Notes application
  */
 
 public class NotesListApp extends JFrame {
