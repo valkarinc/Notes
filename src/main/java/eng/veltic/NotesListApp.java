@@ -12,6 +12,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
+/**
+ * @author valkarinc
+ */
+
 public class NotesListApp extends JFrame {
     // Dark theme colors
     private static final Color DARK_BG = new Color(28, 28, 30);
